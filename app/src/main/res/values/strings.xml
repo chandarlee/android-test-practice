@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AndroidTestPractice</string>
+
+    <string name="type_operand_one_hint">Type Operand 1</string>
+    <string name="type_operant_two_hint">Type Operand 2</string>
+    <string name="add_operation_text">Add</string>
+    <string name="sub_operation_text">Sub</string>
+    <string name="div_operation_text">Div</string>
+    <string name="mul_operation_text">Mul</string>
+    <string name="computationError">Error</string>
+
+    <string name="list_act_name">Data Adapter Sample</string>
+    <string name="row_label">Clicked on row</string>
+
+    <string name="dialer_act_name">Intents Basic Sample</string>
+    <string name="type_a_phone_number">Please enter a number…</string>
+    <string name="button_dial_number">Call Number</string>
+    <string name="button_pick_contact">Pick Number</string>
+    <string name="contacts_activity_placeholder">This a placeholder Activity for a contacts screen.
+        This activity is never opened and does not contain any real contact data for
+        keeping this sample simple and focused.
+    </string>
+    <string name="warning_call_phone_permission">This app requires \'call phone\' permission to run</string>
+</resources>
